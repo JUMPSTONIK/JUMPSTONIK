@@ -31,10 +31,10 @@ I may not have a lot of experiencie, but here you can see and use some of the pr
 - [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
 - [TODO App](https://jumpstonik-todo.netlify.app/)
 
-I still have more project that I'll be adding soon as a Pokedex, a URL shortener, a Chat(like a whatsapp clone), a Instagram clone. Some of these apps needs some thing to be fixed, add more features or be deployed. I still have one private project, that I can show now, but as soon as I get the permissions I'll make it public.
+I still have more project that I'll be adding soon as a Pokedex, a URL shortener, a Chat(like a whatsapp clone), a Instagram clone and my personal website. Some of these apps needs some thing to be fixed, add more features, be created or be deployed. I have one private project, that I can't show now, but as soon as I get the permissions I'll make it public.
 
 ## What am I working now?
-Now I'm working to learn or improve in some technologies. Most of them I have learned how to used them before, but I want to get a deeper knowledge too. some of those technologies are:
+Now I'm working to learn or improve in some technologies. Most of them I have learned how to used them before, but I want to get a deeper knowledge too. Some of those technologies are:
 - SQL(PostgreSQL and/or MySQL) & NoSQL(MongoDB and Redis)
 - SASS and Less
 - Docker
