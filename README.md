@@ -4,6 +4,7 @@
 [![](https://img.shields.io/twitter/follow/DavidJumpstonik?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@DavidJumpstonik)](https://twitter.com/DavidJumpstonik)
 
 Hey there, I'm Josue David Lopez Florian
+
 Welcome to my safe haven! 👋
 
 I'm open to work and looking for a startup to continue my career as a Frontend or Fullstack developer. I've been working with several technologies like HTML5, CSS3, Javascript, Typescript, React.js, Node.js, Express, Redux, Styled-components, Material-UI, JWT, Git/Github and Jest. I consider myself as a great Frontend developer, because I love what I do and I prefer let my work show you my skills. I could not have too much experience, but I have the desire to make a great impact in the world through coding.
