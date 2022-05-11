@@ -23,7 +23,7 @@ My responsabilities in my dream job.
 
 My projects
 I may not have a lot of experienci, but here you can see some of the projects I have done.
--[Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo))
+- [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo))
 
 
 
