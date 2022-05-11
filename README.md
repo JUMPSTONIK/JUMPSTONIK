@@ -7,7 +7,7 @@ Hey there, I'm Josue David Lopez Florian
 
 Welcome to my safe haven! 👋
 
-I'm open to work and looking for a startup to continue my career as a Frontend or Fullstack developer. I've been working with several technologies like HTML5, CSS3, Javascript, Typescript, React.js, Node.js, Express, Redux, Styled-components, Material-UI, JWT, Git/Github and Jest. I consider myself as a great Frontend developer, because I love what I do and I prefer let my work show you my skills. I could not have too much experience, but I have the desire to make a great impact in the world through coding.
+I'm open to work and looking for a startup to continue my career as a Frontend or Fullstack developer. I've been working with several technologies like HTML5, CSS3, Javascript, Typescript, React.js, Node.js, Express, Redux, Styled-components, Material-UI, JWT, Git/Github and Jest. I consider myself as a great Frontend developer, because I love what I do and I prefer let my work show you my skills. I dont have too much experience, but I have the desire to grow fast, become a great developer become an expert as Frontend developer and a Data Scientist in the future.
 
 Beside my work as a developer, I love dancing, playing a big variaty of videogames, learn new technologies, create some side project to try new things. I have a big passion for coding and work as a Frontend developer its one of the thing I love the most. Thats why I stater learning all the last tecnologies I mention and I keep learning more everyday.
 
@@ -23,8 +23,13 @@ My responsabilities in my dream job.
 - etc.
 
 My projects
-I may not have a lot of experienci, but here you can see some of the projects I have done.
+I may not have a lot of experiencie, but here you can see some of the projects I have done. Most of these project you can find them in my repositories. All the clients of all my projects are deployed in netlify and my APIs in Heroku.
 - [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo))
+- [JSON To CSV converte](https://jumpstonik-json-to-csv.netlify.app/)
+- [Pomodoro](https://jumpstonik-pomodoro.netlify.app/)
+- [One time secret](https://jumpstonik-one-time-secret.netlify.app/)
+- [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
+- [TODO App](https://jumpstonik-todo.netlify.app/)
 
 
 
