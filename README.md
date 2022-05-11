@@ -23,7 +23,7 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 - etc.
 
 ## My projects
-I may not have a lot of experiencie, but here you can see some of the projects I have done. Most of these project you can find them in my repositories. All the clients of all my projects are deployed in netlify and my APIs in Heroku.
+I may not have a lot of experiencie, but here you can see and use some of the projects I have done. Most of these project are in my repositories. The clients of all my projects are deployed in netlify and my APIs in Heroku.
 - [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo))
 - [JSON To CSV converte](https://jumpstonik-json-to-csv.netlify.app/)
 - [Pomodoro](https://jumpstonik-pomodoro.netlify.app/)
@@ -31,9 +31,17 @@ I may not have a lot of experiencie, but here you can see some of the projects I
 - [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
 - [TODO App](https://jumpstonik-todo.netlify.app/)
 
+I still have more project that I'll be adding soon as a Pokedex, a URL shortener, a Chat(like a whatsapp clone), a Instagram clone. Some of these apps needs some thing to fix, add more features or be deployed. I still have one private project, that I can show now, but as soon as I get the permissions I'll make it public.
 
+## What am I working now?
+Now I'm working to learn or improve in some technologies. Most of them I have learned how to used them before, but I want to get a deeper knowledge too. some of those technologies are:
+- SQL(PostgreSQL and/or MySQL) & NoSQL(MongoDB and Redis)
+- SASS and Less
+- Docker
+- Redux
+- Cloud(AWS or GCP)
 
-
+In case you want to know more about my and my background you can see my CV [here](https://drive.google.com/file/d/1KIdR9XW9iOax_M00Jw6503CGGmr59MUy/view?usp=sharing)
 <!--
 **JUMPSTONIK/JUMPSTONIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
