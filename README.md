@@ -25,7 +25,7 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 ## My projects
 I may not have a lot of experiencie, but here you can see and use some of the projects I have done. Most of these project are in my repositories. The clients of all my projects are deployed in netlify and my APIs in Heroku.
 - [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo))
-- [JSON To CSV converte](https://jumpstonik-json-to-csv.netlify.app/)
+- [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
 - [Pomodoro](https://jumpstonik-pomodoro.netlify.app/)
 - [One time secret](https://jumpstonik-one-time-secret.netlify.app/)
 - [URL-Shortener](https://jumpstonik-url-shortener.netlify.app/)
