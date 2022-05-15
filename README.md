@@ -31,8 +31,9 @@ I may not have a lot of experiencie, but here you can see and use some of the pr
 - [URL-Shortener](https://jumpstonik-url-shortener.netlify.app/)
 - [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
 - [TODO App](https://jumpstonik-todo.netlify.app/)
+- And more...
 
-I still have more projects that I'll be adding soon as a Pokedex, a Chat(like a whatsapp clone), a Instagram clone and my personal website. Some of these apps needs some thing to be fixed, add more features, be created or be deployed. I have one private project, that I can't show now, but as soon as I get the permissions I'll make it public.
+There are more projects that I'll be adding soon as a Pokedex, a Chat(like a whatsapp clone), a Instagram clone and my personal website, but I'm still working on them. 
 
 ## What am I working now?
 Now I'm working to learn or improve in some technologies. Most of them I have learned how to used them before, but I want to get a deeper knowledge too. Some of those technologies are:
@@ -43,7 +44,7 @@ Now I'm working to learn or improve in some technologies. Most of them I have le
 - Tailwind and/or Bootstrap
 - Cloud(AWS or GCP)
 
-In case you want to know more about my and my background you can see my CV [here](https://drive.google.com/file/d/1KIdR9XW9iOax_M00Jw6503CGGmr59MUy/view?usp=sharing)
+In case you want to know more about my and my background you can see my CV [here](https://drive.google.com/file/d/1uIp_67_USWHrDevIB1LZC6_04dHNlMd1/view?usp=sharing)
 <!--
 **JUMPSTONIK/JUMPSTONIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
