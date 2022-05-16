@@ -13,7 +13,7 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 
 ## My responsabilities in my dream job.
 - Transform client requierment into features tha user can use.
-- Work with UI/UX designer, Backend developer, marketing team and CEOs.
+- Work with UI/UX designer, Backend developer, marketing team, testers, CEOs, etc.
 - Propuse solutions to issues and meet our user needs.
 - Create components, layouts and logic in client-side.
 - Work with other team to create great products and make a big impact in the startup.
