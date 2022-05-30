@@ -22,6 +22,41 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 - Work in a agile enviremont using SCRUM.
 - etc.
 
+<h2>🚀 What I've Worked With</h2>
+<p align="left">
+<img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=Javascript" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" alt="Website Badge">
+
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=node.js" alt="Website Badge">
+<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="Website Badge">
+<img src="https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js" alt="Website Badge">
+<img src="https://img.shields.io/badge/-React Native-black?style=for-the-badge&logo=react" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js" alt="Website Badge">
+<img src="https://img.shields.io/badge/-WASM-black?style=for-the-badge&logo=webassembly" alt="Website Badge">
+<img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&logoColor=red" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Testing Library-black?style=for-the-badge&logo=testing-library" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Cypress-black?style=for-the-badge&logo=cypress" alt="Website Badge">
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql" alt="Website Badge">
+<img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="Website Badge">
+<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase" alt="Website Badge">
+<img src="https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=magenta" alt="Website Badge">
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Rancher-black?style=for-the-badge&logo=rancher&logoColor=0075A8" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes" alt="Website Badge">
+<img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws&logoColor=orange" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Terraform-black?style=for-the-badge&logo=terraform&logoColor=purple" alt="Website Badge">
+</p>
+
 ## My projects
 I may not have a lot of experiencie, but here you can see and use some of the projects I have done. Most of these project are in my repositories. The clients of all my projects are deployed in netlify and my APIs in Heroku.
 - [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo))
