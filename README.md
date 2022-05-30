@@ -31,12 +31,11 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=node.js" alt="Website Badge">
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&logoColor=red" alt="Website Badge">
 </p>
 <p align="left">
 
-
-<img src="https://img.shields.io/badge/-Testing Library-black?style=for-the-badge&logo=testing-library" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&logoColor=red" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Super-test-black?style=for-the-badge&logo=Super-test" alt="Website Badge">
 
 </p>
 <p align="left">
