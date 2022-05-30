@@ -35,23 +35,20 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 <p align="left">
 
 <img src="https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&logoColor=red" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Super-test-black?style=for-the-badge&logo=Super-test" alt="Website Badge">
 
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql" alt="Website Badge">
 <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="Website Badge">
 <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase" alt="Website Badge">
-<img src="https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=magenta" alt="Website Badge">
+<!-- <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase" alt="Website Badge"> 
+<img src="https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=magenta" alt="Website Badge"> -->
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Rancher-black?style=for-the-badge&logo=rancher&logoColor=0075A8" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes" alt="Website Badge">
-<img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws&logoColor=orange" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Terraform-black?style=for-the-badge&logo=terraform&logoColor=purple" alt="Website Badge">
+<img src="https://img.shields.io/badge/-RESTAPI-black?style=for-the-badge&logo=restapi&logoColor=magenta" alt="Website Badge">
 </p>
 
 ## My projects
