@@ -24,7 +24,7 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 
 <h2>🚀 What I've Worked With</h2>
 <p align="left">
-<img src="https://img.shields.io/badge/-Html-black?style=for-the-badge&logo=Html" alt="Website Badge">
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Css-black?style=for-the-badge&logo=Css" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=Javascript" alt="Website Badge">
