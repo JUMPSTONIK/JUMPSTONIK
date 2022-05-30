@@ -57,6 +57,8 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 <img src="https://img.shields.io/badge/-webpack-black?style=for-the-badge&logo=webpack" alt="Website Badge">
 <img src="https://img.shields.io/badge/-styled%20components-black?style=for-the-badge&logo=styled-components" alt="Website Badge">
 <img src="https://img.shields.io/badge/-material%20UI-black?style=for-the-badge&logo=styled-components" alt="Website Badge">
+<img src="https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify" alt="Website Badge">
+<img src="https://img.shields.io/badge/-heroku-black?style=for-the-badge&logo=heroku" alt="Website Badge">
 
 <!-- <img src="" alt="Website Badge"> -->  
 
