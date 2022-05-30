@@ -55,7 +55,8 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 <img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=Github" alt="Website Badge">
 <img src="https://img.shields.io/badge/-babel-black?style=for-the-badge&logo=babel" alt="Website Badge">
 <img src="https://img.shields.io/badge/-webpack-black?style=for-the-badge&logo=webpack" alt="Website Badge">
-  
+<img src="https://img.shields.io/badge/-styled%20components-black?style=for-the-badge&logo=styled-components" alt="Website Badge">
+
 <!-- <img src="" alt="Website Badge"> -->  
 
 </p>
