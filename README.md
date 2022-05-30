@@ -47,7 +47,6 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 <p align="left">
 <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Terraform-black?style=for-the-badge&logo=terraform&logoColor=purple" alt="Website Badge">
 <img src="https://img.shields.io/badge/-RESTAPI-black?style=for-the-badge&logo=restapi&logoColor=magenta" alt="Website Badge">
 </p>
 
