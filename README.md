@@ -56,6 +56,7 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 <img src="https://img.shields.io/badge/-babel-black?style=for-the-badge&logo=babel" alt="Website Badge">
 <img src="https://img.shields.io/badge/-webpack-black?style=for-the-badge&logo=webpack" alt="Website Badge">
 <img src="https://img.shields.io/badge/-styled%20components-black?style=for-the-badge&logo=styled-components" alt="Website Badge">
+<img src="https://img.shields.io/badge/-material%20UI-black?style=for-the-badge&logo=styled-components" alt="Website Badge">
 
 <!-- <img src="" alt="Website Badge"> -->  
 
@@ -78,7 +79,6 @@ There are more projects that I'll be adding soon as a Pokedex, a Chat(like a wha
 Now I'm working to learn or improve in some technologies. Most of them I have learned how to used them before, but I want to get a deeper knowledge too. Some of those technologies are:
 - SQL(PostgreSQL and/or MySQL) & NoSQL(MongoDB and Redis)
 - SASS and Less
-- Docker
 - Redux,
 - Tailwind and/or Bootstrap
 - Cloud(AWS or GCP)
