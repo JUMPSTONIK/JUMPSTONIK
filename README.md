@@ -25,23 +25,19 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 <h2>🚀 What I've Worked With</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Css-black?style=for-the-badge&logo=Css" alt="Website Badge">
+<img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=Javascript" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" alt="Website Badge">
-
-</p>
-<p align="left">
 <img src="https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=node.js" alt="Website Badge">
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="Website Badge">
-<img src="https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js" alt="Website Badge">
-<img src="https://img.shields.io/badge/-React Native-black?style=for-the-badge&logo=react" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js" alt="Website Badge">
-<img src="https://img.shields.io/badge/-WASM-black?style=for-the-badge&logo=webassembly" alt="Website Badge">
-<img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&logoColor=red" alt="Website Badge">
+</p>
+<p align="left">
+
+
 <img src="https://img.shields.io/badge/-Testing Library-black?style=for-the-badge&logo=testing-library" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Cypress-black?style=for-the-badge&logo=cypress" alt="Website Badge">
+
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql" alt="Website Badge">
