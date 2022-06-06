@@ -7,10 +7,10 @@
 
 Welcome to my safe haven! 👋
 
-I'm open to work and looking for a startup to continue my career as a Frontend or Fullstack developer. I've been working with several technologies like HTML5, CSS3, Javascript, Typescript, React.js, Node.js, Express, Redux, Styled-components, Material-UI, JWT, Babel, Webpack, PostgreSQL, MongoDB Git/Github, Command line/Bash and Jest. I consider myself as a great Frontend developer, because I love what I do and I prefer let my work show you my skills. I dont have too much experience, but I have the desire to grow fast, become a great developer become an expert as Frontend developer and a Data Scientist in the future.
+I'm open to work and looking for a startup or company to continue my career as a Frontend or Fullstack developer. I consider myself as a great Frontend developer, because I love what I do and I prefer let my work show you my skills. I dont have too much experience, but I have the desire to grow fast, become a great developer become an expert as Frontend developer and a Data Scientist in the future.
 
 Beside my work as a developer, I love dancing, playing a big variaty of videogames, learn new technologies, create some side project to try new things. I have a big passion for coding and work as a Frontend developer its one of the thing I love the most. Thats why I stater learning all the last tecnologies I mention and I keep learning more everyday.
-
+<!--
 ## My responsabilities in my dream job.
 - Transform client requierment into features tha user can use.
 - Work with UI/UX designer, Backend developer, marketing team, testers, CEOs, etc.
@@ -21,7 +21,7 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 - Innovate and create a great UX for clients.
 - Work in a agile enviremont using SCRUM.
 - etc.
-
+-->
 <h2>🚀 What I've Worked With</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" alt="Website Badge">
