@@ -66,6 +66,7 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 
 ## My projects
 I may not have a lot of experiencie, but here you can see and use some of the projects I have done. Most of these project are in my repositories. The clients of all my projects are deployed in netlify and my APIs in Heroku.
+
 - [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo))
 - [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
 - [Pomodoro](https://jumpstonik-pomodoro.netlify.app/)
@@ -73,7 +74,11 @@ I may not have a lot of experiencie, but here you can see and use some of the pr
 - [URL-Shortener](https://jumpstonik-url-shortener.netlify.app/)
 - [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
 - [TODO App](https://jumpstonik-todo.netlify.app/)
+- [Quantica App prototype in Figma](https://www.figma.com/proto/1n9ZYrwtUqSIsR7hBIyJ9q/Quantica-app-prototype?node-id=6%3A0&scaling=scale-down&starting-point-node-id=3%3A2)
 - And more...
+
+
+- [Quantica App prototype](https://www.figma.com/proto/1n9ZYrwtUqSIsR7hBIyJ9q/Quantica-app-prototype?node-id=6%3A0&scaling=scale-down&starting-point-node-id=3%3A2)
 
 There are more projects that I'll be adding soon as a Pokedex, a Chat(like a whatsapp clone), a Instagram clone and my personal website, but I'm still working on them. 
 
