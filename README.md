@@ -4,7 +4,7 @@
 [![](https://img.shields.io/twitter/follow/DavidJumpstonik?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@DavidJumpstonik)](https://twitter.com/DavidJumpstonik)
 
 # Hey there, I'm Josue David Lopez Florian
-
+ 
 Welcome to my safe haven! 👋
 
 I'm open to work and looking for a startup or company to continue my career as a Frontend or Fullstack developer. I consider myself as a great Frontend developer, because I love what I do and I prefer let my work show you my skills. I dont have too much experience, but I have the desire to grow fast, become a great developer become an expert as Frontend developer and a Data Scientist in the future.
@@ -21,6 +21,7 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 - Innovate and create a great UX for clients.
 - Work in a agile enviremont using SCRUM.
 - etc.
+
 -->
 <h2>🚀 What I've Worked With</h2>
 <p align="left">
