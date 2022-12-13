@@ -33,6 +33,8 @@ Beside my work as a developer, I love dancing, playing a big variaty of videogam
 <img src="https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=node.js" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Website Badge">
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Ionic-black?style=for-the-badge&logo=ionic" alt="Website Badge">
 </p>
 <p align="left">
 
