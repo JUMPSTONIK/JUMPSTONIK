@@ -4,7 +4,7 @@
 [![](https://img.shields.io/twitter/follow/DavidJumpstonik?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@DavidJumpstonik)](https://twitter.com/DavidJumpstonik)
 
 <span>
- <p style="text-align: center;" align="center"><strong><i>On my degree, I am a Computer Science engineer. In my mind, I am a coder and choreographer. But in my heart, I am a developer, an artist and an athlete.</i></strong><p>
+ <p style="text-align: center; font-size: 2rem;" align="center"><strong><i>On my degree, I am a Computer Science engineer. In my mind, I am a coder and choreographer. But in my heart, I am a developer, an artist and an athlete.</i></strong><p>
 </span>
 
 # Hi, I'm Josue David Lopez Florian
