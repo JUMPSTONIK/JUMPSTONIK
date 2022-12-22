@@ -6,7 +6,7 @@
 # Hey there, I'm Josue David Lopez Florian
 
 <h2 style="text-align: center">
- <i>On my degree, I am a Computer Science engineer. In my mind, I am a coder and choreographer. But in my heart, I am a developer, an artist and Athlete.</i>
+ <i>On my degree, I am a Computer Science engineer. In my mind, I am a coder and choreographer. But in my heart, I am a developer, an artist and an athlete.</i>
 </h2>
 
 I'm a Frontend and Full-stack developer. I consider myself as a great Frontend developer, because I love what I do, and I prefer to let my work show you my skills. Furthermore, I have the desire to grow fast, be a better developer to become an expert as Frontend developer and a Data Scientist in the future. Beside my work as a developer, I love dancing, playing a big variety of video games, learn new technologies, create some side project to try new things and never stop learning.
