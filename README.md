@@ -68,7 +68,7 @@ I'm a Frontend and Full-stack developer. I consider myself as a great Frontend d
 </p>
 
 ## My projects
-I may not have a lot of experiencie, but here you can see and use some of the projects I have done. Most of these project are in my repositories. The clients of all my projects are deployed in netlify and my APIs in Heroku.
+Here you can see and use some of the projects I have done. Most of these projects are in my repositories. The clients of all my projects are deployed in Netlify and my APIs in Heroku.
 
 - [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo))
 - [Quantica App prototype in Figma](https://www.figma.com/proto/1n9ZYrwtUqSIsR7hBIyJ9q/Quantica-app-prototype?node-id=6%3A0&scaling=scale-down&starting-point-node-id=3%3A2)
@@ -82,7 +82,7 @@ I may not have a lot of experiencie, but here you can see and use some of the pr
 
 - And more...
 
-There are more projects that I'll be adding soon as a Pokedex, a Chat(like a whatsapp clone), a Instagram clone and my personal website, but I'm still working on them. 
+There are more projects that I'll be adding soon, as a Pokedex and my personal website, but I'm still working on them. 
 
 ## What am I working now?
 Now I'm working to learn or improve in some technologies. Most of them I have learned how to used them before, but I want to get a deeper knowledge too. Some of those technologies are:
