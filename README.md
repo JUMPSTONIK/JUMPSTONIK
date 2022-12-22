@@ -5,7 +5,7 @@
 
 # Hey there, I'm Josue David Lopez Florian
 
-<span style="text-align: center; font-weigth: bold; margin: 0 auto;">
+<span style="text-align: center; font-weight: bold; margin: 0 auto;">
  <i>On my degree, I am a Computer Science engineer. In my mind, I am a coder and choreographer. But in my heart, I am a developer, an artist and an athlete.</i>
 </span>
 
