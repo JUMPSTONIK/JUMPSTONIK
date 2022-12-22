@@ -5,11 +5,11 @@
 
 # Hey there, I'm Josue David Lopez Florian
  
-Welcome to my safe haven! 👋
+Welcome to my safe haven! 👋
 
-I'm open to work and looking for a startup or company to continue my career as a Frontend or Fullstack developer. I consider myself as a great Frontend developer, because I love what I do and I prefer let my work show you my skills. I dont have too much experience, but I have the desire to grow fast, become a great developer become an expert as Frontend developer and a Data Scientist in the future.
+On my degree, I am a Computer Science engineer. In my mind, I am a coder and choreographer. But in my heart, I am a developer, an artist and Athlete.
 
-Beside my work as a developer, I love dancing, playing a big variaty of videogames, learn new technologies, create some side project to try new things. I have a big passion for coding and work as a Frontend developer its one of the thing I love the most. Thats why I stater learning all the last tecnologies I mentioned and I keep learning more everyday.
+I'm a Frontend and Full-stack developer. I consider myself as a great Frontend developer, because I love what I do, and I prefer to let my work show you my skills. Furthermore, I have the desire to grow fast, be a better developer to become an expert as Frontend developer and a Data Scientist in the future. Beside my work as a developer, I love dancing, playing a big variety of video games, learn new technologies, create some side project to try new things and never stop learning.
 <!--
 ## My responsabilities in my dream job.
 - Transform client requierment into features tha user can use.
