@@ -9,7 +9,7 @@
 
 # Hi, I'm Josue David Lopez Florian
 
-I'm a Frontend and Full-stack developer. I consider myself as a great Frontend developer, because I love what I do, and I prefer to let my work show you my skills. Furthermore, I have the desire to grow fast, be a better developer to become an expert as Frontend developer and a Data Scientist in the future. Beside my work as a developer, I love dancing, playing a big variety of video games, learn new technologies, create some side project to try new things and never stop learning.
+I'm a Frontend and Full-stack developer. I consider myself as a great Frontend developer, because I love what I do, and I prefer to let my work show you my skills. Furthermore, I have the desire to grow fast and improve my skills everyday to deliver high quality software in every project I work. As a frontend developer I focus a lot on details, accesibilty and be sure everything works as it should. I love working with data too, so I hope to become a Data Scientist in the future and maybe combine both of my passions in my work. Beside my work as a developer, I love dancing, playing a big variety of video games, learn new technologies, create some side project to try new things and never stop learning.
 <!--
 ## My responsabilities in my dream job.
 - Transform client requierment into features tha user can use.
