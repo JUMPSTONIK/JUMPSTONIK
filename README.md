@@ -75,7 +75,7 @@ Here you can see and use some of the projects I have done. Most of these project
 - [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
 - [Pomodoro](https://jumpstonik-pomodoro.netlify.app/)
 - [One time secret](https://jumpstonik-one-time-secret.netlify.app/)
-- [URL-Shortener](https://jumpstonik-url-shortener.netlify.app/)
+- [URL-Shortener](jumpstonik-url-shortenerv2.netlify.app/)
 - [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
 - [TODO App](https://jumpstonik-todo.netlify.app/)
 - [Calculator App](https://6397fc121de58d37071f783f--chic-lebkuchen-f176c2.netlify.app/)
