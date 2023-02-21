@@ -72,14 +72,14 @@ Here you can see and use some of the projects I have done. Most of these project
 
 - [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo))
 - [Quantica App prototype in Figma](https://www.figma.com/proto/1n9ZYrwtUqSIsR7hBIyJ9q/Quantica-app-prototype?node-id=6%3A0&scaling=scale-down&starting-point-node-id=3%3A2)
-- [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
-- [Pomodoro](https://jumpstonik-pomodoro.netlify.app/)
-- [One time secret](https://jumpstonik-one-time-secret.netlify.app/)
 - [URL-Shortener](jumpstonik-url-shortenerv2.netlify.app/)
-- [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
-- [TODO App](https://jumpstonik-todo.netlify.app/)
 - [Calculator App](https://6397fc121de58d37071f783f--chic-lebkuchen-f176c2.netlify.app/)
 - [Fylo Dark Theme landing](https://main--chipper-bombolone-81e5e8.netlify.app/)
+- [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
+- [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
+- [TODO App](https://jumpstonik-todo.netlify.app/)
+- [Pomodoro](https://jumpstonik-pomodoro.netlify.app/)
+- [One time secret](https://jumpstonik-one-time-secret.netlify.app/)
 
 - And more...
 
