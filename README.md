@@ -92,7 +92,7 @@ Now I'm working to learn or improve in some technologies. Most of them I have le
 - Tailwind and/or Bootstrap
 - Cloud(AWS or GCP)
 
-In case you want to know more about me and my background, you can see my CV. [here](https://drive.google.com/file/d/1CXWZHxdJhI6pQRh7nwO_59YhG1iLXvNy/view?usp=sharing)
+In case you want to know more about me and my background, you can see my CV. [here](https://drive.google.com/file/d/17mN-lNxyOjBsqQsxpytl-3gvA6ssqvkW/view?usp=share_link)
 <!--
 **JUMPSTONIK/JUMPSTONIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
