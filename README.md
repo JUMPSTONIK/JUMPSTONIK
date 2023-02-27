@@ -80,7 +80,7 @@ Here you can see and use some of the projects I have done. Most of these project
 - [TODO App](https://jumpstonik-todo.netlify.app/)
 - [Pomodoro](https://jumpstonik-pomodoro.netlify.app/)
 - [One time secret](https://jumpstonik-one-time-secret.netlify.app/)
-- [Password generator](https://jumpstonik-password-generator.netlify.app) <span style="color:blue">some *blue* text</span>
+- 🔴[Password generator](https://jumpstonik-password-generator.netlify.app) <span>❗in progress</span>
 
 - And more...
 
