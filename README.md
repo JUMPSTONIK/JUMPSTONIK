@@ -63,7 +63,7 @@ Here you can see and use some of the projects I have done. Most of these project
 <!-- - [Quantica App prototype in Figma](https://www.figma.com/proto/1n9ZYrwtUqSIsR7hBIyJ9q/Quantica-app-prototype?node-id=6%3A0&scaling=scale-down&starting-point-node-id=3%3A2) -->
 - [URL-Shortener](https://jumpstonik-url-shortenerv2.netlify.app/)
 - [Calculator App](https://jumpstonik-calculator.netlify.app/)
-- [Password generator](https://jumpstonik-password-generator.netlify.app) 
+- [Password generator](https://jumpstonik-password-generator.netlify.app/) 
 <!-- <span>in progress❗</span> -->
 - [Fylo Dark Theme landing](https://main--chipper-bombolone-81e5e8.netlify.app/)
 - [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
