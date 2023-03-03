@@ -63,7 +63,7 @@ Here you can see and use some of the projects I have done. Most of these project
 - [URL-Shortener](https://jumpstonik-url-shortenerv2.netlify.app/)
 - [Calculator App](https://jumpstonik-calculator.netlify.app/)
 - [Password generator](https://jumpstonik-password-generator.netlify.app) 
-- <!-- <span>in progress❗</span> -->
+<!-- <span>in progress❗</span> -->
 - [Fylo Dark Theme landing](https://main--chipper-bombolone-81e5e8.netlify.app/)
 - [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
 - [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
