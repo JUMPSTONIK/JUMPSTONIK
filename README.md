@@ -77,7 +77,7 @@ There are more projects that I'll be adding soon, as a Pokedex and my personal w
 
 ## What am I working now?
 Now I'm working to learn or improve in some technologies. Most of them I have learned how to use them before, but I want to get a deeper knowledge too. Some of those technologies are:
-- Tailwind <span>Learning to apply it in my next project 💻</span>
+- Tailwind <span> 💻 In process to learn it</span>
 - SQL(PostgreSQL and/or MySQL) & NoSQL(MongoDB and Redis)
 - GraphQL,
 - Bootstrap
