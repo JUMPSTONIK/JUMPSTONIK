@@ -66,7 +66,7 @@ Here you can see and use some of the projects I have done. Most of these project
 - [Password generator](https://jumpstonik-password-generator.netlify.app/) 
 - [TODO App](https://jumpstonik-todo.netlify.app/)
 - [Fylo Dark Theme landing](https://main--chipper-bombolone-81e5e8.netlify.app/)
-- [Pomodoro](https://jumpstonik-pomodoro.netlify.app/) <span>🖌️This project is about to receive a redesign</span>
+- [Pomodoro](https://jumpstonik-pomodoro.netlify.app/) <span>(🖌️This project is about to receive a redesign)</span>
 - [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
 - [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
 - [One time secret](https://jumpstonik-one-time-secret.netlify.app/)
@@ -77,7 +77,7 @@ There are more projects that I'll be adding soon, as a Pokedex and my personal w
 
 ## What am I working now?
 Now I'm working to learn or improve in some technologies. Most of them I have learned how to use them before, but I want to get a deeper knowledge too. Some of those technologies are:
-- Tailwind <span> 💻 In process to learn it</span>
+- Tailwind <span> (💻 In process to learn it)</span>
 - NextJS
 - SQL(PostgreSQL and/or MySQL) & NoSQL(MongoDB and Redis)
 - GraphQL,
