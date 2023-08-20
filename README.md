@@ -24,6 +24,8 @@ I'm a Frontend and Full-stack developer. I consider myself as a great Frontend d
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Ionic-black?style=for-the-badge&logo=ionic" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Webflow-black?style=for-the-badge&logo=webflow" alt="Website Badge">
 </p>
 <p align="left">
 
@@ -77,11 +79,9 @@ There are more projects that I'll be adding soon, as a Pokedex and my personal w
 
 ## What am I working now?
 Now I'm working to learn or improve in some technologies. Most of them I have learned how to use them before, but I want to get a deeper knowledge too. Some of those technologies are:
-- Webflow <span> (💻 In process to learn it)</span>
-- Vue.js
+- Bootstrap (💻 In process to learn it)
 - SQL(PostgreSQL and/or MySQL) & NoSQL(MongoDB and Redis)
-- GraphQL,
-- Bootstrap
+- GraphQL
 - Cloud(AWS or GCP)
 
 In case you want to know more about me and my background, you can see my CV. [here](https://drive.google.com/file/d/17mN-lNxyOjBsqQsxpytl-3gvA6ssqvkW/view?usp=share_link)
