@@ -24,7 +24,7 @@ I'm a Frontend and Full-stack developer. I consider myself as a great Frontend d
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Ionic-black?style=for-the-badge&logo=ionic" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Vuejs-black?style=for-the-badge&logo=vuejs" alt="Website Badge">
+<img src="https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js" alt="Website Badge">
 <img src="https://img.shields.io/badge/-Webflow-black?style=for-the-badge&logo=webflow" alt="Website Badge">
 </p>
 <p align="left">
