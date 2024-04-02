@@ -9,7 +9,7 @@
 
 # Hi, I'm Josue David Lopez Florian
 
-I'm a Frontend and Full-stack developer. I consider myself as a great Frontend developer, because I love what I do, and I prefer to let my work show you my skills. Furthermore, I have the desire to grow fast and improve my skills everyday to deliver high quality software in every project I work. As a frontend developer I focus a lot on details, accesibilty and be sure everything works as it should. I love working with data too, so I hope to become a Data Scientist in the future and maybe combine both of my passions in my work. Beside my work as a developer, I love dancing, playing a big variety of video games, learn new technologies, create some side project to try new things and never stop learning.
+I consider myself as a great Frontend developer, because I love what I do, and I prefer to let my work show you my skills. Furthermore, I have the desire to grow fast and improve my skills everyday to deliver high quality software in every project I work. As a frontend developer I focus a lot on details, accesibilty and be sure everything works as it should. I love working with data too, so I hope to become a Data Scientist in the future and maybe combine both of my passions in my work. Beside my work as a developer, I love dancing, playing a big variety of video games, learn new technologies, create some side project to try new things and never stop learning.
 
 <h2>🚀 What I've Worked With</h2>
 <p align="left">
@@ -68,7 +68,8 @@ Here you can see and use some of the projects I have done. Most of these project
 - [Password generator](https://jumpstonik-password-generator.netlify.app/) 
 - [TODO App](https://jumpstonik-todo.netlify.app/)
 - [Fylo Dark Theme landing](https://main--chipper-bombolone-81e5e8.netlify.app/)
-- [Pomodoro](https://jumpstonik-pomodoro.netlify.app/) <span>(🖌️This project is about to receive a redesign)</span>
+- [Tic-Tac-Toe](https://jumpstonik-tic-tac-toe.netlify.app) <span>(🖌️This project is about to receive a redesign)</span>
+- [Pomodoro](https://jumpstonik-pomodoro.netlify.app/) <span>(🖌️This project is about to receive a redesign too)</span>
 - [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
 - [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
 - [One time secret](https://jumpstonik-one-time-secret.netlify.app/)
