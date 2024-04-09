@@ -59,8 +59,9 @@ I consider myself as a great Frontend developer, because I love what I do, and I
 </p>
 
 ## My projects
-Here you can see and use some of the projects I have done. Most of these projects are in my repositories. The clients of all my projects are deployed in Netlify and my APIs in Heroku.
+Here you can see and use some of the projects I have done. Most of these projects are in my repositories. The clients of all my projects are deployed in Netlify and my APIs in Heroku. Some projects may not work, because now Heroku is a paid service, so several projects dont have their API working, but it will be migrated to another service.
 
+- [Portfolio](https://jumpstonik.netlify.app/) <span>This project is still in progress</span>
 - [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo) first, or the project won't work)
 <!-- - [Quantica App prototype in Figma](https://www.figma.com/proto/1n9ZYrwtUqSIsR7hBIyJ9q/Quantica-app-prototype?node-id=6%3A0&scaling=scale-down&starting-point-node-id=3%3A2) -->
 - [URL-Shortener](https://jumpstonik-url-shortenerv2.netlify.app/)
@@ -80,12 +81,12 @@ There are more projects that I'll be adding soon, as a Pokedex and my personal w
 
 ## What am I working now?
 Now I'm working to learn or improve in some technologies. Most of them I have learned how to use them before, but I want to get a deeper knowledge too. Some of those technologies are:
-- Bootstrap (💻 In process to learn it)
-- SQL(PostgreSQL and/or MySQL) & NoSQL(MongoDB and Redis)
+- Next.js (💻 In process to learn it)
+- Nuxt.js 
 - GraphQL
-- Cloud(AWS or GCP)
+- AWS
 
-In case you want to know more about me and my background, you can see my CV. [here](https://drive.google.com/file/d/17mN-lNxyOjBsqQsxpytl-3gvA6ssqvkW/view?usp=share_link)
+In case you want to know more about me and my background, you can see my CV. [here](https://drive.google.com/file/d/1CXWZHxdJhI6pQRh7nwO_59YhG1iLXvNy/view?usp=sharing)
 <!--
 **JUMPSTONIK/JUMPSTONIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
