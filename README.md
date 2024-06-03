@@ -64,7 +64,7 @@ Here you can see and use some of the projects I have done. Most of these project
 - [Portfolio](https://jumpstonik.netlify.app/) <span>This project is still in progress</span>
 - [Heroes App](https://jumpstonik-heroes-app.netlify.app/)(get access to the API [here](https://cors-anywhere.herokuapp.com/corsdemo) first, or the project won't work)
 <!-- - [Quantica App prototype in Figma](https://www.figma.com/proto/1n9ZYrwtUqSIsR7hBIyJ9q/Quantica-app-prototype?node-id=6%3A0&scaling=scale-down&starting-point-node-id=3%3A2) -->
-- [URL-Shortener](https://jumpstonik-url-shortenerv2.netlify.app/)
+- [URL-Shortener](https://jumpstonik-url-shortenerv2.netlify.app/) <span>This project needs to get ist backend migrated</span>
 - [Calculator App](https://jumpstonik-calculator.netlify.app/)
 - [Password generator](https://jumpstonik-password-generator.netlify.app/) 
 - [TODO App](https://jumpstonik-todo.netlify.app/)
@@ -73,7 +73,7 @@ Here you can see and use some of the projects I have done. Most of these project
 - [Pomodoro](https://jumpstonik-pomodoro.netlify.app/) <span>(🖌️This project is about to receive a redesign too)</span>
 - [Masket-input](https://jumpstonik-masket-input-visa-form.netlify.app/)(VISA Form)
 - [JSON To CSV converter](https://jumpstonik-json-to-csv.netlify.app/)
-- [One time secret](https://jumpstonik-one-time-secret.netlify.app/)
+- [One time secret](https://jumpstonik-one-time-secret.netlify.app/) <span>This project needs to get ist backend migrated</span>
 
 - And more...
 
