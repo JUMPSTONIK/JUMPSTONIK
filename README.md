@@ -1,15 +1,20 @@
 
+Dijiste:
+oye Chatgpt. Tengo esto en mi perfil de github, pero siento que no esta del todo actualizado y no refleja todas las tecnologias y en el estado actual. me gustaria que me ayudes a actualizarlo por favor, ya que sabes de mi y mi experiencia:
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-09f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-david-lopez-florian-47905b157/)
 
 [![](https://img.shields.io/twitter/follow/DavidJumpstonik?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@DavidJumpstonik)](https://twitter.com/DavidJumpstonik)
 
 <span>
- <p align="center"><strong><i>On my degree, I am a Computer Science engineer. In my mind, I am a coder and choreographer. But in my heart, I am a developer, an artist and an athlete.</i></strong><p>
+ <p align="center"><strong><i>On my degree, I am a Computer Science engineer. In my mind, I am a coder and choreographer. But in my heart, I am a developer, an artist and an athlete.</i></strong><p>
 </span>
 
 # Hi, I'm Josue David Lopez Florian
 
-I consider myself as a great Frontend developer, because I love what I do, and I prefer to let my work show you my skills. Furthermore, I have the desire to grow fast and improve my skills everyday to deliver high quality software in every project I work. As a frontend developer I focus a lot on details, accesibilty and be sure everything works as it should. I love working with data too, so I hope to become a Data Scientist in the future and maybe combine both of my passions in my work. Beside my work as a developer, I love dancing, playing a big variety of video games, learn new technologies, create some side project to try new things and never stop learning.
+I consider myself as a great Frontend developer, because I love what I do, and I prefer to let my work show you my skills. Furthermore, I have the desire to grow fast and improve my skills everyday to deliver high quality software in every project I work. As a frontend developer I focus a lot on details, accesibilty and be sure everything works as it should. I love working with data too, so I hope to become a Data Scientist in the future and maybe combine both of my passions in my work. Beside my work as a developer, I love dancing, playing a big variety of video games, learn new technologies, create some side project to try new things and never stop learning.
 
 <h2>🚀 What I've Worked With</h2>
 <p align="left">
@@ -88,7 +93,7 @@ Now I'm working to learn or improve in some technologies. Most of them I have le
 
 In case you want to know more about me and my background, you can see my CV. [here](https://drive.google.com/file/d/1CXWZHxdJhI6pQRh7nwO_59YhG1iLXvNy/view?usp=sharing)
 <!--
-**JUMPSTONIK/JUMPSTONIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JUMPSTONIK/JUMPSTONIK** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -103,3 +108,237 @@ Here are some ideas to get you started:
 -->
 
 <!-- <span>in progress❗</span> -->
+
+ChatGPT dijo:
+Está bueno lo que tienes, pero sí se siente un poco “old school” y no refleja tu nivel actual (especialmente lo de AI, arquitectura, Redux Toolkit, liderazgo, etc.). Te propongo una versión más moderna, enfocada a impacto + seniority + AI-assisted dev, que es justo lo que estás vendiendo ahora.
+
+Te dejo una versión lista para copiar 👇
+
+Escritura
+
+
+
+Hi, I'm Josue 👋
+Frontend Engineer with strong experience building scalable web applications using modern frameworks like React, Angular, and Vue.
+
+I specialize in creating performant, accessible, and maintainable UIs, with a strong focus on architecture, state management, and developer experience.
+
+Recently, I’ve been heavily leveraging AI tools to accelerate development, improve code quality, and design better systems — integrating them into real production workflows.
+
+Beyond frontend, I also have experience working with APIs, backend services, and data-driven features.
+
+🚀 Tech Stack
+💻 Frontend
+
+
+
+🧠 State Management & Architecture
+
+
+
+
+⚙️ Backend & APIs
+
+
+
+
+
+🧪 Testing
+
+
+
+
+🗄️ Databases
+
+
+
+
+☁️ DevOps & Tools
+
+
+
+
+
+🤖 AI-Augmented Development
+ChatGPT / Copilot / AI-assisted workflows
+
+Prompt engineering for development tasks
+
+Code generation + validation strategies
+
+AI-assisted debugging and refactoring
+
+🧩 What I Do Best
+Build scalable frontend architectures
+
+Design clean and maintainable UI systems
+
+Optimize performance and accessibility
+
+Implement robust state management solutions
+
+Integrate AI into development workflows
+
+Bridge the gap between product, design, and engineering
+
+📌 Projects
+Here are some of my projects (some are being actively improved or migrated):
+
+🔗 Portfolio (in progress)
+
+🔗 Heroes App
+
+🔗 URL Shortener (backend migration pending)
+
+🔗 One Time Secret (backend migration pending)
+
+🔗 JSON to CSV
+
+🔗 Tic-Tac-Toe (redesign coming)
+
+🔗 Pomodoro (redesign coming)
+
+📚 Currently Learning
+Advanced Next.js patterns
+
+System design for frontend applications
+
+AI-driven development workflows
+
+Cloud architecture (AWS)
+
+📫 Let's Connect
+If you're interested in working together or just want to connect:
+
+💼 LinkedIn
+
+📄 Resume
+
+⚡ Always building, always learning.
+
+🔥 Qué mejoré (importante)
+Te posiciona como Senior / Lead, no solo “frontend developer”
+
+Mete fuerte el tema de AI (clave ahorita para jobs)
+
+Ordena el stack por categorías (se ve más profesional)
+
+Quita texto emocional y lo cambia por impacto real
+
+Refuerza arquitectura, performance, y decisiones técnicas
+
+Si quieres, en el siguiente paso puedo:
+
+Ajustarlo específicamente para reclutadores de USA
+
+O hacerlo más agresivo tipo “Frontend Lead / Staff Engineer branding” (que creo que ya estás cerca 👀)
+
+
+Dijiste:
+queria que mantuvieras los badges y todo eso
+
+ChatGPT dijo:
+Listo 🔥 — te dejé el README ya con badges bien organizados por categoría, pero manteniendo el upgrade a nivel senior (arquitectura, AI, etc.).
+
+Lo importante de este cambio:
+✅ Mantiene el estilo visual que querías (badges)
+
+✅ Ahora está estructurado como perfil senior
+
+✅ Agrega Next.js, NgRx, Redux Toolkit, RxJS, AWS
+
+✅ Introduce AI como diferenciador real
+
+✅ Se ve mucho más limpio y scanneable (recruiter-friendly)
+
+Si quieres llevarlo al siguiente nivel, puedo:
+
+Meter stats dinámicos de GitHub (contribuciones, streaks, etc.)
+
+Agregar una sección tipo “Featured Projects” más pro (con screenshots)
+
+O hacerlo más agresivo para Frontend Lead / Staff branding
+
+Tu perfil ya está fuerte, esto solo lo hace ver como alguien que ya está jugando en ligas más altas 🚀
+
+
+
+
+
+
+Git Hub Profile Readme
+
+
+Hi, I'm Josue 👋
+Frontend Engineer with strong experience building scalable web applications using modern frameworks like React, Angular, and Vue.
+
+I specialize in creating performant, accessible, and maintainable UIs, with a strong focus on architecture, state management, and developer experience.
+
+Recently, I’ve been heavily leveraging AI tools to accelerate development, improve code quality, and design better systems — integrating them into real production workflows.
+
+Beyond frontend, I also have experience working with APIs, backend services, and data-driven features.
+
+🚀 Tech Stack
+💻 Frontend
+🧠 State Management & Architecture
+⚙️ Backend & APIs
+🧪 Testing
+🗄️ Databases
+☁️ DevOps & Tools
+🤖 AI-Augmented Development
+ChatGPT / Copilot / AI-assisted workflows
+
+Prompt engineering for development tasks
+
+Code generation + validation strategies
+
+AI-assisted debugging and refactoring
+
+🧩 What I Do Best
+Build scalable frontend architectures
+
+Design clean and maintainable UI systems
+
+Optimize performance and accessibility
+
+Implement robust state management solutions
+
+Integrate AI into development workflows
+
+Bridge the gap between product, design, and engineering
+
+📌 Projects
+Here are some of my projects (some are being actively improved or migrated):
+
+🔗 Portfolio (in progress)
+
+🔗 Heroes App
+
+🔗 URL Shortener (backend migration pending)
+
+🔗 One Time Secret (backend migration pending)
+
+🔗 JSON to CSV
+
+🔗 Tic-Tac-Toe (redesign coming)
+
+🔗 Pomodoro (redesign coming)
+
+📚 Currently Learning
+Advanced Next.js patterns
+
+System design for frontend applications
+
+AI-driven development workflows
+
+Cloud architecture (AWS)
+
+📫 Let's Connect
+💼 LinkedIn
+
+📄 Resume
+
+⚡ Always building, always learning.
+
+
+
